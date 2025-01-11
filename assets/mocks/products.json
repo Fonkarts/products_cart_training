@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Laptop",
+        "price": 999.99,
+        "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+        "available": true
+    },
+    {
+        "name": "Smartphone",
+        "price": 699.99,
+        "description": "A sleek smartphone with a stunning display and powerful camera.",
+        "available": true
+    },
+    {
+        "name": "Wireless Headphones",
+        "price": 149.99,
+        "description": "Noise-cancelling headphones with Bluetooth connectivity.",
+        "available": false
+    },
+    {
+        "name": "Coffee Maker",
+        "price": 89.99,
+        "description": "A drip coffee maker with a programmable timer.",
+        "available": true
+    },
+    {
+        "name": "Smartwatch",
+        "price": 199.99,
+        "description": "A smartwatch with fitness tracking and heart rate monitoring.",
+        "available": true
+    },
+    {
+        "name": "Electric Toothbrush",
+        "price": 49.99,
+        "description": "A rechargeable electric toothbrush with multiple brushing modes.",
+        "available": true
+    },
+    {
+        "name": "Backpack",
+        "price": 59.99,
+        "description": "A durable backpack with multiple compartments for organization.",
+        "available": false
+    },
+    {
+        "name": "Blender",
+        "price": 79.99,
+        "description": "A powerful blender with multiple speed settings and pulse function.",
+        "available": true
+    },
+    {
+        "name": "Wireless Charger",
+        "price": 29.99,
+        "description": "A fast wireless charger compatible with multiple devices.",
+        "available": true
+    },
+    {
+        "name": "Water Bottle",
+        "price": 19.99,
+        "description": "A stainless steel water bottle that keeps drinks cold for 24 hours.",
+        "available": true
+    },
+    {
+        "name": "Gaming Mouse",
+        "price": 59.99,
+        "description": "An ergonomic gaming mouse with customizable RGB lighting.",
+        "available": false
+    },
+    {
+        "name": "Desk Lamp",
+        "price": 39.99,
+        "description": "A LED desk lamp with adjustable brightness and color temperature.",
+        "available": true
+    }
+]
